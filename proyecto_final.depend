@@ -1,0 +1,578 @@
+# depslib dependency file v1.0
+1687121314 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+
+1685818928 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\usuario.h
+	<stdio.h>
+	<stdlib.h>
+
+1685818573 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\usuario.c
+	"usuario.h"
+
+1687120599 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687045385 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687121490 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687121480 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1686341609 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1686341614 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1686260578 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto final\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686341609 source:c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1686341614 c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687121490 c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687128536 source:c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687045385 c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1686260578 source:c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687128388 source:c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687128586 source:c:\users\usuario\downloads\proyecto_final (12)\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
+1686341609 source:c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1686341614 c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687121490 c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687128536 source:c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687045385 c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1686260578 source:c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687130295 source:c:\users\w10\documents\utn programacion\progra\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687129887 source:c:\users\w10\documents\utn programacion\progra\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+
+1687352503 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687374322 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688129953 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1688131130 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687386577 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1687385026 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688131213 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1688131341 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687185634 source:c:\users\nieve\desktop\final mati\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\nieve\desktop\final mati\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687121490 c:\users\nieve\desktop\final mati\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687128536 source:c:\users\nieve\desktop\final mati\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687186969 c:\users\nieve\desktop\final mati\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687191524 source:c:\users\nieve\desktop\final mati\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\nieve\desktop\final mati\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687187719 source:c:\users\nieve\desktop\final mati\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687191668 source:c:\users\nieve\desktop\final mati\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687352503 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687374322 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687375897 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687365723 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687373012 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1687373012 c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687371711 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687375771 source:c:\users\usuario\documents\utn - tecnicatura universitaria en porgramacion\progamacion y laboratorio 1\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687185634 source:c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687203575 c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687205699 source:c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687204908 c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687191524 source:c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687216678 source:c:\users\usuario-pc\documents\utn pf\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687216584 source:c:\users\usuario-pc\documents\utn pf\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687185634 source:c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687203575 c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687205699 source:c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687204908 c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687191524 source:c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687225903 source:c:\users\usuario-pc\documents\utn pf2\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687227101 source:c:\users\usuario-pc\documents\utn pf2\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687352503 source:c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687292444 c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687359697 source:c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687360955 c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687353403 source:c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1686258639 c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687360230 source:c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687353846 source:c:\users\usuario\downloads\proyecto_finalv41\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687352503 source:c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687292444 c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687359697 source:c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687365723 c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687373012 source:c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1687373012 c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687371711 source:c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687372067 source:c:\users\usuario\downloads\proyecto_finalvalgo\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687352503 source:c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687374322 c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687377071 source:c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1687365723 c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687373012 source:c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1687373012 c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687371711 source:c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1687377212 source:c:\users\usuario\downloads\proyecto_finalestasalecampeon\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
+1687352503 source:c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\categorias.c
+	"categorias.h"
+	"Login.h"
+
+1687185389 c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\categorias.h
+	<stdio.h>
+	<stdlib.h>
+
+1687374322 c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688129953 source:c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\login.c
+	"Login.h"
+	"categorias.h"
+	"publicaciones.h"
+
+1688131130 c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\publicaciones.h
+	<stdio.h>
+	<stdlib.h>
+	"Login.h"
+
+1687386577 source:c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\mensaje.c
+	"login.h"
+	"mensaje.h"
+
+1687385026 c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\mensaje.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1688131213 source:c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\lib\publicaciones.c
+	"publicaciones.h"
+	"categorias.h"
+	"Login.h"
+
+1688131341 source:c:\users\usuario\desktop\c\proyecto_finalv42 (1)\proyecto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"./lib/publicaciones.h"
+	"./lib/Login.h"
+	"./lib/categorias.h"
+	<conio.h>
+	<windows.h>
+	<unistd.h>
+	"./lib/mensaje.h"
+
